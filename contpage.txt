@@ -1,0 +1,146 @@
+Parte 1: A Estrutura Essencial (Sitemap)
+
+Estas são as páginas mínimas e necessárias para um site B2B de tecnologia robusto.
+
+Página Inicial (Home): A porta de entrada. Deve capturar a atenção em 5 segundos e direcionar o visitante.
+
+Sobre Nós (About): 
+
+
+Nome: IADRON
+
+Slogan: "Sistemas que pensam, soluções que voam."
+
+Missão: Desenvolver sistemas personalizados e inteligentes que resolvem desafios complexos com tecnologia sob medida.
+
+Atuação: Criação de sistemas sob demanda para empresas de todos os setores, com soluções voltadas à eficiência, escalabilidade e inovação.
+
+A IADRON é uma empresa de tecnologia com foco no desenvolvimento de sistemas personalizados para atender as necessidades específicas de cada cliente. Trabalha com desenvolvimento de software, soluções mobile/web, automação, inteligência artificial e integração de sistemas.
+
+Serviços: Onde você detalha o "o quê" e o "como" do seu trabalho.{
+    trabalhamos com sistemas e automações para tudo e todos, usamos qualquer linguem ou tecnologia nescesaria de forma rapida e funcional, com base nos dados fornecidos pelos clientes e seus poblemas.
+}
+
+Cases de Sucesso (Portfólio):
+    Desenvolvimento de um Sistema para alciliar veterinarios com manejos de éguas.
+
+
+Blog / Insights: Onde você demonstra autoridade, atrai tráfego qualificado e educa seu mercado.
+
+Contato: Onde você transforma um visitante interessado em um lead.
+
+Parte 2: Detalhando o Conteúdo de Cada Página
+Sua tarefa agora é abrir um documento de texto e escrever o conteúdo para cada um destes blocos.
+
+1. PÁGINA INICIAL (HOME)
+O objetivo é fazer o visitante pensar: "Finalmente, alguém que entende o meu problema."
+
+Bloco 1: Seção Herói (A Promessa)
+
+Título Principal (H1): Foque na solução, não na ferramenta: Seus sistemas pensam E NOSSAS SOLUÇÕES VOAM.
+
+Subtítulo: Uma frase que explica como: Seu sistema sob demanda melhoramos suas operações no presente e no futuro
+
+Chamada para Ação (CTA) Principal: Um botão claro. Agendar uma Análise Gratuita
+
+Prova Social Imediata (opcional): Se já tiver, logos de clientes ou parceiros.
+
+Bloco 2: O Problema (Agite a Dor)
+
+Título: "Sua operação está presa ao passado?"
+
+Itens: Use ícones e frases curtas para listar os problemas que seu cliente enfrenta. Ex: "❌ Dependência de planilhas manuais", "❌ Falta de dados para tomada de decisão", "❌ Sistemas legados que não se conversam".
+
+Bloco 3: A Solução (Apresente os Serviços)
+
+Título: "Soluções de tecnologia pensadas para o seu desafio."
+
+Estrutura: Três colunas, cada uma com um ícone, o nome do serviço e uma descrição de uma linha.
+
+Desenvolvimento Sob Demanda: "Criamos o software exato que sua operação precisa."
+
+Inteligência Artificial: "Extraímos insights valiosos dos seus dados para prever cenários e otimizar resultados."
+
+Automação de Processos: "Eliminamos tarefas repetitivas, reduzindo custos e erros humanos."
+
+Link: Cada item deve ter um link para a página de serviço correspondente.
+
+Bloco 4: A Prova (Apresente os Cases)
+
+Título: "Veja como ajudamos empresas como a sua a decolar."
+
+Estrutura: Apresente 1 ou 2 mini-cases com o logo do cliente (futuramente), um resumo do resultado ("+30% de eficiência") e um link para o case completo.
+
+se tiver menos de deuas cases Deixe a seção com uma mensagem como "Nossos futuros cases de sucesso estarão aqui em breve. Seja o Proximo a ter sua história de inovação contada."
+
+Bloco 5: CTA Final
+
+Título: "Pronto para modernizar seu negócio?"
+
+Texto: "Vamos conversar sobre seus desafios e desenhar uma solução tecnológica sob medida."
+
+Botão: [ Fale com um Especialista ]
+
+2. SOBRE NÓS
+O objetivo é mostrar que por trás da tecnologia existem especialistas confiáveis.
+
+Seção 1: Nossa Missão: Sistemas que pensam soluções que voam.
+
+Seção 2: A História da IADRON: Pensamos em fundar nossa empresa no dia 06/06/2025, foi quando Iniciamos o primeiro projeto, enquanto pegavamos o onibus para ir estudar um dos fundadores deu a ideia de fazer um sistema para ajudar na empresa em que a irmã trabalhava, foi onde começamos a desenvolver o sistema e tivemos a ideia de fundar uma empresa focada em sistemas e automações.
+
+Seção 4: Nossos Valores: Em que vocês acreditam?: Parceria com o cliente, Resolver poblemas e criar soluções para os clientes etc..
+
+3. SERVIÇOS
+O objetivo é educar o cliente sobre o valor de cada oferta.
+
+Crie uma seção dedicada para cada serviço principal. Dentro de cada uma, responda:
+
+O que é? (ex: O que é a Automação de Processos?)
+
+Qual problema isso resolve? (ex: Resolve o problema de erros manuais, perda de tempo...).
+
+Para quem é ideal? (ex: Ideal para indústrias com linhas de produção, escritórios com alto volume de documentos...).
+
+Como é o nosso processo? (ex: 1. Diagnóstico, 2. Mapeamento, 3. Desenvolvimento, 4. Implementação).
+
+Tecnologias que usamos: (ex: Python, Selenium, RPA, etc.).
+
+4. CASES DE SUCESSO / PORTFÓLIO
+O objetivo é provar, sem sombra de dúvida, que vocês geram resultados.
+
+Para cada case, siga esta estrutura:
+
+Cliente: Logo e nome da empresa.
+
+O Desafio: Descreva o problema que o cliente enfrentava antes da IADRON.
+
+A Solução: Detalhe o que foi desenvolvido. Seja específico.
+
+Resultados: A parte mais importante. Use números e métricas! Ex: "Redução de 40% no tempo de emissão de relatórios", "Aumento de 15% na precisão do inventário".
+
+Depoimento: Uma citação do cliente elogiando o trabalho.
+
+5. BLOG / INSIGHTS
+O objetivo é se tornar uma autoridade no seu nicho.
+
+A estrutura é uma lista de artigos. O mais importante é planejar os títulos dos primeiros 5 artigos. Pense em perguntas que seu cliente ideal digita no Google.
+
+6. CONTATO
+O objetivo é ser o mais simples e acessível possível.
+
+Formulário Simples: Nome, Email da empresa, Mensagem.
+
+Informações Diretas:
+
+Email: iadron.techlabs@gmail.com
+
+Telefone / WhatsApp Business; +55 (47) 99136-0437
+
+Link para o perfil da IADRON no LinkedIn e GitHub.
+www.linkedin.com/in/iadron-tech-labs-7bab1036b
+https://github.com/IADRON
+
+Parte 3: Elementos Globais (Em todas as páginas)
+Cabeçalho (Header): Logo da IADRON, Menu de Navegação claro, Botão de CTA "Fale Conosco".
+
+Rodapé (Footer): Logo, links para as páginas principais, informações de contato, links para redes sociais, e um link para a "Política de Privacidade" (exigência da LGPD).
