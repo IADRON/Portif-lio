@@ -412,6 +412,19 @@ body {
 .direct-item p a { text-decoration: none; color: var(--text-light); transition: color 0.3s; }
 .direct-item p a:hover { color: var(--primary-color); }
 
+/* --- PÁGINA DE OBRIGADO --- */
+.thank-you-section {
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thank-you-icon {
+    font-size: 5rem;
+    color: var(--primary-color);
+    margin-bottom: 30px;
+}
+
 /* --- RODAPÉ --- */
 .footer {
     background-color: var(--text-dark);

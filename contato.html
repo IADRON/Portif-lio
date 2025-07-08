@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contato - IADRON</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="shortcut icon" href="assets/iadron-logo.ico" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"/>
@@ -46,23 +45,34 @@
                 <div class="contact-wrapper">
                     <div class="contact-form">
                         <h3>Envie sua mensagem</h3>
-                        <form action="#">
+                        <!-- FORMULÁRIO ATUALIZADO PARA USAR FORMSUBMIT -->
+                        <form action="https://formsubmit.co/iadron.techlabs@gmail.com" method="POST">
+                            <!-- Campo de Nome -->
                             <div class="form-group">
                                 <label for="name">Nome</label>
                                 <input type="text" id="name" name="name" required>
                             </div>
+                            <!-- Campo de Email -->
                             <div class="form-group">
                                 <label for="email">Email da Empresa</label>
                                 <input type="email" id="email" name="email" required>
                             </div>
+                            <!-- Campo de Telefone -->
                             <div class="form-group">
                                 <label for="phone">Telefone</label>
                                 <input type="tel" id="phone" name="phone" required>
                             </div>
+                            <!-- Campo de Mensagem -->
                             <div class="form-group">
                                 <label for="message">Mensagem</label>
                                 <textarea id="message" name="message" rows="5" required></textarea>
                             </div>
+                            
+                            <!-- Configurações do FormSubmit -->
+                            <input type="hidden" name="_next" value="https://seu-dominio.com/obrigado.html">
+                            <input type="hidden" name="_subject" value="Novo Contato do Site IADRON!">
+                            <input type="hidden" name="_captcha" value="false"> <!-- Desativa o captcha temporariamente -->
+
                             <button type="submit" class="btn btn-primary">Enviar</button>
                         </form>
                     </div>
@@ -86,7 +96,7 @@
                             <i class="fab fa-linkedin"></i>
                             <div>
                                 <h4>LinkedIn</h4>
-                                <p><a href="www.linkedin.com/in/iadron-tech-labs-7bab1036b" target="_blank">linkedin.com/company/iadron</a></p>
+                                <p><a href="https://linkedin.com/company/iadron" target="_blank">linkedin.com/company/iadron</a></p>
                             </div>
                         </div>
                         <div class="direct-item">
@@ -121,7 +131,7 @@
             <div class="footer-social">
                 <h4>Conecte-se</h4>
                 <div class="social-icons">
-                    <a href="www.linkedin.com/in/iadron-tech-labs-7bab1036b" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://linkedin.com/company/iadron" target="_blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://github.com/IADRON" target="_blank"><i class="fab fa-github"></i></a>
                     <a href="https://www.instagram.com/iadron.techlabs/" target="_blank"><i class="fab fa-instagram"></i></a>
                 </div>
